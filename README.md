@@ -1,6 +1,6 @@
 ### Hi there 👋 Eu sou Aneline silva Anecosta35
 <!-
-**Anecosta35/Anecosta35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+**Anecosta35 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 - 🔭 I’m currently working  Como social Mídia
 - 🌱 I’m currently learning  Programação                                                                                                                                    
