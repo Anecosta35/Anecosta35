@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou Aneline silva Anecosta35 Estudante de GEstão e tecnologia da informação
+### Hi there 👋 Eu sou Ane Aneline, Estudante de Gestão e tecnologia da informação
 <!-
 **Anecosta35 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
