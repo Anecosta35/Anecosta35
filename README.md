@@ -5,10 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working  Como social Mídia
 - 🌱 I’m currently learning  Programação                                                                                                                                    
 - 👯 I’m looking to collaborate Com todo aprendizado... 
-,- 💬 Ask me about ..
-- 📫 How to reach me:  https://www.instagram.com/invites/contact/?i=qb8o71uya0t9&utm_content=kexhcsj,https://www.linkedin.com/in/aneline-silva-b30a64207 
-- 😄 Pronouns: ...
--⚡ Fun fact:
+ 
 <div align="center">
   <a href="https://github.com/anecosta35">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
